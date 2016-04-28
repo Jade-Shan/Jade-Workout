@@ -13,7 +13,7 @@
 	<artifactId>jade-workout</artifactId>
 	<name>jade workout</name>
 	<packaging>war</packaging>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<url>https://github.com/Jade-Shan/Jade-Workout</url>
 
 	<properties>
